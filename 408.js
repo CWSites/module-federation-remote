@@ -35,9 +35,9 @@ const HelloUniverse = () => {
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 // Module
 ___CSS_LOADER_EXPORT___.push([module.id, `h2 {
-  color: #0f0;
+  color: #2ecc71;
 }
-`, "",{"version":3,"sources":["webpack://./src/components/HelloUniverse.css"],"names":[],"mappings":"AAAA;EACE,WAAW;AACb","sourcesContent":["h2 {\n  color: #0f0;\n}\n"],"sourceRoot":""}]);
+`, "",{"version":3,"sources":["webpack://./src/components/HelloUniverse.css"],"names":[],"mappings":"AAAA;EACE,cAAc;AAChB","sourcesContent":["h2 {\n  color: #2ecc71;\n}\n"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
